@@ -38,7 +38,6 @@ CCTV-4中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/
 CCTV-5体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5体育,http://220.178.228.153:1935/live/cctv5/playlist.m3u8
 CCTV-5体育,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
 CCTV-5体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV-5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
@@ -75,14 +74,12 @@ CCTV-15音乐,http://39.134.65.5:80/wh7f454c46tw1856642347_680427276/ottrrs.hl.c
 凤凰卫视中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰资讯台,http://sc2022.stream-link.org/tv2306.php?id=h18
 凤凰资讯台,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
 凤凰资讯台,http://r.jdshipin.com/0Rp07
 凤凰资讯台,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
 凤凰资讯台,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰香港台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
@@ -97,10 +94,6 @@ CCTV-15音乐,http://39.134.65.5:80/wh7f454c46tw1856642347_680427276/ottrrs.hl.c
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 翡翠台,http://210.210.155.37/dr9445/h/h20/index.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2309081833
-无线新闻台,https://tvp22.sky4k.top/index1.php
-无线新闻台,http://r.jdshipin.com/CkuBd
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
 台湾卫视,#genre#
 民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=01
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
