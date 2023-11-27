@@ -1,4 +1,4 @@
-央视新闻,#genre#
+央视频道,#genre#
 CCTV-13新闻,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13新闻,http://36.155.98.21/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3
@@ -7,7 +7,6 @@ CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV-13新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-央视频道,#genre#
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -40,19 +39,19 @@ CCTV-14少儿, https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/de9
 CCTV-14少儿, https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e42ec6ee0b2d4dcb99e7051039ae7df7/1200.m3u8
 CCTV-15音乐, http://39.134.65.5:80/wh7f454c46tw1856642347_680427276/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?icpid=88888888&RTS=1554599629&from=1&hms_devid=4
 香港卫视,#genre#
-凤凰中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰中文台,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰资讯台,http://sc2022.stream-link.org/tv2306.php?id=h18
-凤凰资讯台,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
-凤凰资讯台,http://r.jdshipin.com/0Rp07
-凤凰资讯台,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
-凤凰资讯台,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰卫视中文台,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰卫视中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰卫视中文台,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰卫视资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰卫视资讯台,http://sc2022.stream-link.org/tv2306.php?id=h18
+凤凰卫视资讯台,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+凤凰卫视资讯台,http://r.jdshipin.com/0Rp07
+凤凰卫视资讯台,http://210.210.155.37/qwr9ew/s/s21/01.m3u8
+凤凰卫视资讯台,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰卫视资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰卫视香港台,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
 翡翠台,http://r.jdshipin.com/62WM7
