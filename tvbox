@@ -27,6 +27,17 @@ CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-1综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1综合,http://183.196.25.171:808/hls/1/index.m3u8
 CCTV-1综合,http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
+CCTV-1综合,http://219.156.52.203:4000/rtp/225.1.4.73:1102
+CCTV-1综合,http://117.82.67.26:8880/rtp/239.49.8.129:6000
+CCTV-1综合,http://117.82.67.26:8880/rtp/239.49.8.19:9614
+CCTV-1综合,http://119.126.159.38:4000/rtp/239.77.0.86:5146
+CCTV-1综合,http://119.126.159.38:4000/rtp/239.77.1.17:5146
+CCTV-1综合,http://113.57.109.36:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-1综合,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv
+CCTV-1综合,http://61.169.37.218:9901/tsfile/live/24301_1.m3u8?key=txiptv
+CCTV-1综合,http://218.17.181.26:1099/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-1综合,http://cfss.cc/api/ysp/cctv1.m3u8
+CCTV-1综合,https://tv.smart-chat.net/migu.php?id=cctv1
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
