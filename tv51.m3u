@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
+http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
+http://39.165.35.152:9901/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
@@ -7,10 +11,6 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
 http://cfss.cc/api/ysp/cctv13.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
-http://39.165.35.152:9901/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
-http://122.224.153.162:9901/tsfile/live/0013_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
 http://cfss.cc/ds/bst.php?id=Cf-14
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视新闻",CCTV-13新闻
