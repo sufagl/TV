@@ -305,30 +305,6 @@
   ]
 }
 
-[
-{"name": "自用晴天"，"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播晴天源"}，
-{"name": "自用收集"，"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播"}，
-{"name": "饭太硬"，"url":"http://ftyyy.tk/live.txt"}，
-{"name": "捡来的"，"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"}，
-{"name": "甜蜜"，"url": "http://zdir.kebedd69.repl.co/public/live.txt"}，
-{"name": "高天流云"，"url": "http://111.67.196.181/zhibo.txt"}，
-{"name": "星辰"，"url": "http://tvmvip.com/xclive.txt"}，
-{"name": "俊于"，"url": "http://home.jundie.top:81/Cat/tv/live.txt"}，
-{"name": "应用边界"，"url": "https://framagit.org/duomv/duo/-/raw/main/txt/v.txt"}，
-{"name": "多多"，"url": "https://yydsys.top/duo/txt/v.txt"}，
-{"name": "菜妮丝"，"url":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/tvzb.txt"}，
-{"name": "乱世"，"url": "http://www.dmtv.ml/mao/live/m3u.txt"}，
-{"name": "吾爱"，"url": "http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0"}，
-{"name": "肥猫"，"url": "http://我不是.肥猫.love:63/TV/tvzb.txt"}，
-{"name": "PizazzGY"，"url": "https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/live.txt"}，
-{"name": "OwenTV"，"url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt"}，
-{"name": "TVSee"，"url": "https://tvsee.github.io/diyp/tv.txt"}，
-{"name": "月光盒"，"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"}，
-{"name": "IPTVindex"，"url": "https://iptvindex.com/tv.txt"}，
-{"name": "YouTuBe源"，"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/yingshi-y2b.txt"}，
-{"name": "武哥"，"url": "https://qu.ax/sEYA.png"}
-]
-
 
 //接口全部来源于网络,接口失效我会在有时间时不定时更新,更新不及时请各位小主勿怪。感谢您的理解！！！
 //接口排名不分先后（个人使用习惯）,接口名称前面的小图标也是为了美观和个人喜好添加的,请各位大佬勿怪！！！
@@ -377,3 +353,29 @@
 {"name":"🅱云星B站","url":"http://itvbox.cc/tvbox/云星日记/bili.m3u8"},
 {"name":"👭人人影视","url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"}
 ]}
+
+
+[
+{"name": "自用晴天"，"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播晴天源"}，
+{"name": "自用收集"，"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播"}，
+{"name": "饭太硬"，"url":"http://ftyyy.tk/live.txt"}，
+{"name": "捡来的"，"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"}，
+{"name": "甜蜜"，"url": "http://zdir.kebedd69.repl.co/public/live.txt"}，
+{"name": "高天流云"，"url": "http://111.67.196.181/zhibo.txt"}，
+{"name": "星辰"，"url": "http://tvmvip.com/xclive.txt"}，
+{"name": "俊于"，"url": "http://home.jundie.top:81/Cat/tv/live.txt"}，
+{"name": "应用边界"，"url": "https://framagit.org/duomv/duo/-/raw/main/txt/v.txt"}，
+{"name": "多多"，"url": "https://yydsys.top/duo/txt/v.txt"}，
+{"name": "菜妮丝"，"url":"http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/tvzb.txt"}，
+{"name": "乱世"，"url": "http://www.dmtv.ml/mao/live/m3u.txt"}，
+{"name": "吾爱"，"url": "http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0"}，
+{"name": "肥猫"，"url": "http://我不是.肥猫.love:63/TV/tvzb.txt"}，
+{"name": "PizazzGY"，"url": "https://gitee.com/PizazzGY/TVBox_warehouse/raw/main/live.txt"}，
+{"name": "OwenTV"，"url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt"}，
+{"name": "TVSee"，"url": "https://tvsee.github.io/diyp/tv.txt"}，
+{"name": "月光盒"，"url": "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"}，
+{"name": "IPTVindex"，"url": "https://iptvindex.com/tv.txt"}，
+{"name": "YouTuBe源"，"url": "https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/yingshi-y2b.txt"}，
+{"name": "武哥"，"url": "https://qu.ax/sEYA.png"}
+]
+
